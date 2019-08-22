@@ -13,7 +13,7 @@ TODO
 
 - Create public GitHub location to hold all workshop files. (Chuck) DONE
 
-- Move current workshop files into GitHub, so we start from this point. (Chuck) IN PROCESS
+- Move current workshop files into GitHub, so we start from this point. (Chuck) DONE
 
 - Make the labs more challenging. Give the students real "problems" that they have to think about and write code. Put the solutions in the notebooks, perhaps in a collapsed cell. (Meagan, Kristina)
 
