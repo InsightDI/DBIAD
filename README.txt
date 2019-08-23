@@ -4,38 +4,25 @@ INSIGHT DATABRICKS IN A DAY WORKSHOP - README
 
 ********************************************************************************
 
-This directory contains the materials for the Insight's current "Databricks in a Day" (DBIAD) workshop.
 
-DBIAD is currently undergoing revisions. We are improving the material, moving around the location of the content, removing the need for a secret key to get the lab files, etc.
+This directory contains the materials for the Insight's "Databricks in a Day" (DBIAD) workshop.
 
 
-TODO (in approx priority order)
+To set up the workshop...
 
-- Create public GitHub location to hold all workshop files. (Chuck) DONE
+- On your laptop, create a folder named DBIAD.
 
-- Move current workshop files into GitHub, so we start from this point. (Chuck) DONE
+- Go to https://github.com/InsightDI/DBIAD.
 
-- Make sure labs can run from any environment -- paid lab provider, or Community Edition, or students' own subscript. (All)
+- Use the "clone or download" button to download a zip of all the workshop files.
 
-- Update admin notebook, to reference/mount data from GitHub. (Chuck)
+- Open the zip. Put all the files (keeping the subfolders intact) into your DBIAD folder.
 
-- As much as possible, put everything into Databricks notebooks. So a DBC file contains the morning admin setup, student setup, lecture notes, labs, lab results. Use nice formatting in %md cells for this. (All)
--- The class is much easier to run through live if everything is in one place, rather than switching screens back and forth between PPT, Word, instructor Databricks, and student Databricks. 
--- The material will be easier to maintain in one place.
--- Only exception MIGHT be some PPT slides that cannot be put into %md.
--- Consider content vs code notebooks, so it is easy to find a lecture vs a lab. 
+- Start a Databricks instance -- lab, corporate, or community.cloud.databricks.com.
 
-- Integrate Chuck's intro and wrap-up into the overall course files (md cells or PPT. (Chuck)
+- Go to Workspace / Users / "your name" / Import.
 
-- Clean up the DOCX runbook, which currently has Chuck's sloppy notes from his recent session. Try to put all of this into md cells in a DB notebook.  (Chuck)
+- Import each DBC file as a Databricks notebook.
 
-- Make the labs more challenging. Give the students real "problems" that they have to think about and write code. Put the solutions in the notebooks, in a collapsed cell. (Meagan, Kristina)
-
-- Review list of labs, to see if we want to add a new topic. (All)
--- Consider a lab specifically about Delta. Would need to show something unique about Delta. 
-
-- Improve basic streaming lab, with real streaming data generation. (Meagan)
-
-- Finish the advanced lab about streaming to an ML job. Put it in a separate notebook, so it is clearly marked and can be included (or not) by the teacher. (Meagan)
 
 
