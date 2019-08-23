@@ -5,7 +5,7 @@ INSIGHT DATABRICKS IN A DAY WORKSHOP - README
 ********************************************************************************
 
 
-This directory contains the materials for the Insight's "Databricks in a Day" (DBIAD) workshop.
+This directory contains the materials for Insight's "Databricks in a Day" (DBIAD) workshop.
 
 
 To set up the workshop...
@@ -20,7 +20,7 @@ To set up the workshop...
 
 - Start a Databricks instance -- lab, corporate, or community.cloud.databricks.com.
 
-- Go to Workspace / Users / "your name" / Import.
+- Go to Workspace / Users / "your name" / Import / Browse.
 
 - Import each DBC file as a Databricks notebook.
 
