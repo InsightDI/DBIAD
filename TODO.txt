@@ -8,19 +8,16 @@ TODO (in approx priority order)
 
 - Move current workshop files into GitHub, so we start from this point. (Chuck) DONE
 
-- Make sure labs can run from any environment -- paid lab provider, or Community Edition, or students' own subscript. (All)
+- Make sure labs can run from any environment -- paid lab provider, or Community Edition, or students' own subscript. Hopefully, this will be possible. (All)
 
-- Update admin notebook, to reference/mount data from GitHub. (Chuck)
+- Decide about merging the DBC, PPT and Word files into fewer files. Will be easier to present and maintain. (Chuck)
+-- DONE. The plan is to eliminate the separate runbook (Word) and put that info into a notebook.
 
-- As much as possible, put everything into Databricks notebooks. So a DBC file contains the morning admin setup, student setup, lecture notes, labs, lab results. Use nice formatting in %md cells for this. (All)
--- The class is much easier to run through live if everything is in one place, rather than switching screens back and forth between PPT, Word, instructor Databricks, and student Databricks. 
--- The material will be easier to maintain in one place.
--- Only exception MIGHT be some PPT slides that cannot be put into %md.
--- Consider content vs code notebooks, so it is easy to find a lecture vs a lab. 
+- Integrate Chuck's intro and wrap-up into the overall course files (md cells or PPT. (Chuck)  DONE
 
-- Integrate Chuck's intro and wrap-up into the overall course files (md cells or PPT. (Chuck)
+- Update notebooks, to use/reference data from GitHub. (Chuck)
 
-- Clean up the DOCX runbook, which currently has Chuck's sloppy notes from his recent session. Try to put all of this into md cells in a DB notebook.  (Chuck)
+- Merge DOCX runbook, which currently has Chuck's sloppy notes from his recent session. Try to put all of this into md cells in a DB notebook.  (Chuck)
 
 - Make the labs more challenging. Give the students real "problems" that they have to think about and write code. Put the solutions in the notebooks, in a collapsed cell. (Meagan, Kristina)
 
