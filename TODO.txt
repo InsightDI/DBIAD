@@ -10,20 +10,17 @@ TODO (in approx priority order)
 
 - Make sure labs can run from any environment -- paid lab provider, or Community Edition, or students' own subscript. Hopefully, this will be possible. (All)
 
-- Decide about merging the DBC, PPT and Word files into fewer files. Will be easier to present and maintain. (Chuck)   DONE. The plan is to eliminate the separate runbook (Word) and put that info into the notebooks.
+- Decide about merging the DBC, PPT and Word files into fewer files. Will be easier to present and maintain. (Chuck)   DONE. (We will eliminated Word and put that info into the notebooks.)
 
 - Integrate Chuck's intro and wrap-up into the overall course files (md cells or PPT. (Chuck)  DONE
 
-- Port DOCX runbook into temporary notebook markdown cells. (Chuck)   DONE
+- Update notebooks, to use data files from GitHub. (Chuck) DONE
 
-- Update notebooks, to use data files from GitHub. (Chuck)   DONE
-
-- Merge runbook text into main notebooks. Remove temporary runbook notebooks.   (Chuck) 
+- Merge runbook text into main notebooks. Remove temporary runbook notebooks. (Chuck) DONE
 
 - Make the labs more challenging. Give the students real "problems" that they have to think about and write code. Put the solutions in the notebooks, in a collapsed cell. (All)
 
-- Review list of labs, to see if we want to add a new topic. (All)
--- Consider a lab specifically about Delta. Would need to show something unique about Delta. 
+- Review list of labs, to see if we want to add a new topic. (Chuck) DONE, added lots of new info about Delta.
 
 - Improve basic streaming lab, with real streaming data generation. (Meagan)
 
