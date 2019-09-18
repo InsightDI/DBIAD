@@ -4,25 +4,25 @@ DBIAD underwent a significant revision in September 2019. That work is substanti
 A remaining task is to do a full, live teach of the new material to work out any kinks. Whoever does this should make sure to put fixes and improvements back into this GitHub repository after the class.
 
 
-TODO (in approx priority order)
+TODO 
 
 - Create public GitHub location to hold all workshop files. DONE
 
 - Move current workshop files into GitHub, so we start from this point. DONE
 
-- Make sure labs can run from any environment -- paid lab provider, or Community Edition, or students' own subscript.  DONE
+- Make sure labs can run from any environment -- paid lab provider, or Community Edition, or students' own subscript.  DONE, except where Community Edition does not support a certain feature, such as Jobs.
 
 - Decide about merging the DBC, PPT and Word files into fewer files.  DONE, will eliminated Word and put that info into the notebooks.
 
 - Integrate Chuck's intro and wrap-up into the overall course files (md cells or PPT).  DONE
 
-- Update notebooks, to use data files from GitHub. DONE
+- Update notebooks, to use local data files from GitHub. DONE
 
 - Merge runbook text into main notebooks.  DONE
 
-- Make the labs more challenging. Give the students real "problems" that they have to think about and write code. Put the solutions in the notebooks, in a collapsed cell. DONE
+- Make the labs more challenging. Give the students real "problems" that they have to think about and write code. Put the solutions in the notebooks, in collapsed cells. DONE
 
-- Review list of labs, to see if we want to add a new topic. DONE, added lots of new info about Delta.
+- Review list of labs, to see if we want to add a new topic. DONE, added separate lab about Delta.
 
 - Add real streaming data generation to streaming lab. DEFERRED, might do later.
 
